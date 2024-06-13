@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: react-intro
-        image: apurvbidkar/demo:v2
+        image: apurvbidkar/demo:v3
         ports:
           - containerPort: 80
           
